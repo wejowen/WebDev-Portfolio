@@ -1,12 +1,8 @@
 ### Add your supplemental ignored files below this line
-### Added by .... YYYY-MM-DD
 
-##Added by William Owen 2024-04-08
-phase-1/evidence/
-phase-2/evidence/
-phase-3/evidence/
-phase-4/evidence/
-phase-5/evidence/
+
+##Added by William Owen
+/evidence/
 
 
 ### WebStorm force ignore the .idea folder and all its contents
